@@ -307,7 +307,7 @@
 
                            <div class="col-xs-1">
                                 <br>
-                              	<button class="btn btn-lg btn-success" name="update" type="update" formaction="http://localhost/jarin/update.php"><i class="glyphicon glyphicon-ok-sign"></i>Update </button>
+                              	<button class="btn btn-lg btn-success" name="update" type="update" formaction="http://localhost/Client%20Database%20Form/update.php"><i class="glyphicon glyphicon-ok-sign"></i>Update </button>
                                	<br>
                             </div>
                       </div>
